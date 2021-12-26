@@ -1,7 +1,7 @@
 {
     "name": "Laravel",
     "service": "cli",
-    "remoteUser": "user",
+    "remoteUser": "hex",
     "shutdownAction": "stopCompose",
     "workspaceFolder": "/workspaces/laravel",
     "dockerComposeFile": "docker-compose.yaml",
@@ -11,6 +11,8 @@
         "eamodio.gitlens",
         "EditorConfig.EditorConfig",
         "mikestead.dotenv",
-        "onecentlin.laravel-blade"
+        "onecentlin.laravel-blade",
+        "vivaxy.vscode-conventional-commits",
+        "ms-azuretools.vscode-docker"
     ]
 }
